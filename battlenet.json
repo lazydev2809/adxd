@@ -61,7 +61,7 @@
 "link_download_player":"https://github.com/onesavercontact/1872/releases/download/1.0.9/1.0.9hb.apk",
 "package_name_player":"com.nx.video.player",
 "package_name_player_new":"com.nx.video.player",
-"force_playernew_directlink":"1",
+"force_playernew_directlink":true,
 "title_player_new":"HBPlayer",
 "description_player_new":"Please install a video player to watch",
 "hbplayer_version_build":"10",
